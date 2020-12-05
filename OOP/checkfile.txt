@@ -1,0 +1,684 @@
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8eaf0>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8ebb0>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8ec70>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8ed30>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8edf0>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8eeb0>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8ef70>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8e9d0>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8e760>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8e610>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8e550>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8e460>
+1000 Maniacs	Our Time in Eden	1992	<classes.Song object at 0x109a8e3a0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a8e220>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a8e160>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a8e0a0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87430>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a874f0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a875b0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87670>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87730>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87820>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a878e0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a879a0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87a60>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87b20>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87be0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87ca0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87d60>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87e20>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87ee0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87fa0>
+10cc	The Best Of The Early Years	2002	<classes.Song object at 0x109a87370>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a871f0>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a87130>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a87070>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a833d0>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a83310>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a83250>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a83190>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a830d0>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a83dc0>
+AC DC	If You Want Blood, You've Got It	1978	<classes.Song object at 0x109a83e80>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a83fa0>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a834c0>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a83580>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a83640>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a83700>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a837c0>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109976f10>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x1098edaf0>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a72460>
+AC DC	For Those About To Rock (We Salute You)	1981	<classes.Song object at 0x109a72d30>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72550>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72610>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a726d0>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72a30>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72af0>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72bb0>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72dc0>
+Aerosmith	Aerosmith	1973	<classes.Song object at 0x109a72e80>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a728b0>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a72430>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a7de50>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a7dd90>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a7dcd0>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a7dc10>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a7db50>
+Aerosmith	Get Your Wings	1974	<classes.Song object at 0x109a7d280>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d3a0>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d460>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d520>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d5e0>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d6a0>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d760>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d820>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d8e0>
+Aerosmith	Toys In The Attic	1975	<classes.Song object at 0x109a7d9a0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e550>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e490>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e5b0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e670>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e730>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e7f0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e8b0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7e970>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7ea30>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7eaf0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7ebb0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7ec70>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7ed30>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7edf0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7eeb0>
+Aerosmith	Live! Bootleg	1978	<classes.Song object at 0x109a7ef70>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7fa90>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f3d0>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f310>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f250>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f040>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f100>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f430>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f4f0>
+Aerosmith	Night In The Ruts	1979	<classes.Song object at 0x109a7f5b0>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a7f6d0>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a7f790>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a7f850>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a7f910>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a7f9d0>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a7fbb0>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a80fd0>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a80f10>
+Aerosmith	Done With Mirrors	1985	<classes.Song object at 0x109a80b80>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80790>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80850>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80910>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80a90>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80b50>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80c40>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a80e50>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a900d0>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a90190>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a90250>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a90310>
+Aerosmith	Permanent Vacation	1987	<classes.Song object at 0x109a903d0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a904f0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a905b0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90670>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90730>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a907f0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a908b0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90970>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90a30>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90af0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90bb0>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90c70>
+Aerosmith	Gems	1988	<classes.Song object at 0x109a90d30>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a90e50>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a90f10>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a90fd0>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a950d0>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a95190>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a95250>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a95310>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a953d0>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a95490>
+Aerosmith	Pump	1989	<classes.Song object at 0x109a95550>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95670>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95730>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a957f0>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a958b0>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95970>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95a30>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95af0>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95bb0>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95c70>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95d30>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95df0>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95eb0>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a95f70>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a96070>
+Aerosmith	Get A Grip	1993	<classes.Song object at 0x109a96130>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96250>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96310>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a963d0>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96490>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96550>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96610>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a966d0>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96790>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96850>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96910>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a969d0>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96a90>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96b50>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96c10>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96cd0>
+Aerosmith	Big Ones	1994	<classes.Song object at 0x109a96d90>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a96eb0>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a96f70>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a98070>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a98130>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a981f0>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a982b0>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a98370>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a98430>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a984f0>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a985b0>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a98670>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a98730>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a987f0>
+Aerosmith	Nine Lives	1997	<classes.Song object at 0x109a988b0>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a989d0>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98a90>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98b50>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98c10>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98cd0>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98d90>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98e50>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98f10>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a98fd0>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a9a0d0>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a9a190>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a9a250>
+Aerosmith	Just Push Play	2001	<classes.Song object at 0x109a9a310>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a490>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a550>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a610>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a6d0>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a790>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a850>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a910>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9a9d0>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9aa90>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9ab50>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9ac10>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9acd0>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9ad90>
+Alice Cooper	Welcome To My Nightmare	1975	<classes.Song object at 0x109a9ae50>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9af70>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c070>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c130>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c1f0>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c2b0>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c370>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c430>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c4f0>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c5b0>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c670>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c730>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c7f0>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c8b0>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9c970>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9ca30>
+Alice Cooper	Hell Is	2003	<classes.Song object at 0x109a9caf0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9cc70>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9cd30>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9cdf0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9ceb0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9cf70>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e070>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e130>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e1f0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e2b0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e370>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e430>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e4f0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e5b0>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e670>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e730>
+Animals	The Most Of The Animals	1966	<classes.Song object at 0x109a9e7f0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9e970>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9ea30>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9eaf0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9ebb0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9ec70>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9ed30>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9edf0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9eeb0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109a9ef70>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<classes.Song object at 0x109aa1070>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1190>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1250>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1310>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa13d0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1490>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1550>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1610>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa16d0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1790>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1850>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1910>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa19d0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<classes.Song object at 0x109aa1a90>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa1bb0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa1c70>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa1d30>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa1df0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa1eb0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa1f70>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa3070>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa3130>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa31f0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa32b0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa3370>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<classes.Song object at 0x109aa3430>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa35b0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3670>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3730>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa37f0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa38b0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3970>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3a30>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3af0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3bb0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3c70>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3d30>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3df0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3eb0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa3f70>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<classes.Song object at 0x109aa4070>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa41f0>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa42b0>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa4370>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa4430>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa44f0>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa45b0>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa4670>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa4730>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa47f0>
+Heart	Dreamboat Annie	1976	<classes.Song object at 0x109aa48b0>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa49d0>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4a90>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4b50>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4c10>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4cd0>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4d90>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4e50>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4f10>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa4fd0>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa60d0>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa6190>
+Heart	Little Queen	1977	<classes.Song object at 0x109aa6250>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6370>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6430>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa64f0>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa65b0>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6670>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6730>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa67f0>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa68b0>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6970>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6a30>
+Heart	Dog & Butterfly	1978	<classes.Song object at 0x109aa6af0>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa6c70>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa6d30>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa6df0>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa6eb0>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa6f70>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa8070>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa8130>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa81f0>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa82b0>
+Heaven & Hell	The Devil You Know	2009	<classes.Song object at 0x109aa8370>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa84f0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa85b0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8670>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8730>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa87f0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa88b0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8970>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8a30>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8af0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8bb0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8c70>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8d30>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8df0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8eb0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aa8f70>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aaa070>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aaa130>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<classes.Song object at 0x109aaa1f0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa370>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa430>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa4f0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa5b0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa670>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa730>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa7f0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa8b0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaa970>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaaa30>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaaaf0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaabb0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaac70>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaad30>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaadf0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaaeb0>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aaaf70>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aad070>
+Treatment	Running With The Dogs	2014	<classes.Song object at 0x109aad130>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad2b0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad370>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad430>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad4f0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad5b0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad670>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad730>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad7f0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad8b0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aad970>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aada30>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aadaf0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aadbb0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aadc70>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aadd30>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aaddf0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aadeb0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aadf70>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aaf070>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<classes.Song object at 0x109aaf130>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf2b0>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf370>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf430>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf4f0>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf5b0>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf670>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf730>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf7f0>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf8b0>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aaf970>
+Troggs	Athens Andover	1992	<classes.Song object at 0x109aafa30>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aafb50>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aafc10>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aafcd0>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aafd90>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aafe50>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aaff10>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109aaffd0>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab10d0>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab1190>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab1250>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab1310>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab13d0>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab1490>
+Troggs	Wild Thing - The Greatest Hits	1993	<classes.Song object at 0x109ab1550>
+U2	18 Singles	2006	<classes.Song object at 0x109ab16d0>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1790>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1850>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1910>
+U2	18 Singles	2006	<classes.Song object at 0x109ab19d0>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1a90>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1b50>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1c10>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1cd0>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1d90>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1e50>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1f10>
+U2	18 Singles	2006	<classes.Song object at 0x109ab1fd0>
+U2	18 Singles	2006	<classes.Song object at 0x109ab30d0>
+U2	18 Singles	2006	<classes.Song object at 0x109ab3190>
+U2	18 Singles	2006	<classes.Song object at 0x109ab3250>
+U2	18 Singles	2006	<classes.Song object at 0x109ab3310>
+U2	18 Singles	2006	<classes.Song object at 0x109ab33d0>
+U2	18 Singles	2006	<classes.Song object at 0x109ab3490>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3610>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab36d0>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3790>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3850>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3910>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab39d0>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3a90>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3b50>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3c10>
+UFO	Phenomenon	1999	<classes.Song object at 0x109ab3cd0>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab3e50>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab3f10>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab3fd0>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab50d0>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab5190>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab5250>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab5310>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab53d0>
+Uriah Heep	Demons And Wizards	1972	<classes.Song object at 0x109ab5490>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab55b0>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab5670>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab5730>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab57f0>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab58b0>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab5970>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab5a30>
+Uriah Heep	The Magician's Birthday	1972	<classes.Song object at 0x109ab5af0>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab5c10>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab5cd0>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab5d90>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab5e50>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab5f10>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab5fd0>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab70d0>
+Uriah Heep	Uriah Heep Live	1986	<classes.Song object at 0x109ab7190>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7310>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab73d0>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7490>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7550>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7610>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab76d0>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7790>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7850>
+Vangelis	Albedo 0.39	1976	<classes.Song object at 0x109ab7910>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7a90>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7b50>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7c10>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7cd0>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7d90>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7e50>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7f10>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab7fd0>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab90d0>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab9190>
+Van Halen	Van Halen	1978	<classes.Song object at 0x109ab9250>
+Van Halen	1984	1984	<classes.Song object at 0x109ab9370>
+Van Halen	1984	1984	<classes.Song object at 0x109ab9430>
+Van Halen	1984	1984	<classes.Song object at 0x109ab94f0>
+Van Halen	1984	1984	<classes.Song object at 0x109ab95b0>
+Van Halen	1984	1984	<classes.Song object at 0x109ab9670>
+Van Halen	1984	1984	<classes.Song object at 0x109ab9730>
+Van Halen	1984	1984	<classes.Song object at 0x109ab97f0>
+Van Halen	1984	1984	<classes.Song object at 0x109ab98b0>
+Van Halen	1984	1984	<classes.Song object at 0x109ab9970>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9af0>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9bb0>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9c70>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9d30>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9df0>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9eb0>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109ab9f70>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109abc070>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109abc130>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109abc1f0>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109abc2b0>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109abc370>
+Velvet Revolver	Libertad	2007	<classes.Song object at 0x109abc430>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abc5b0>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abc670>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abc730>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abc7f0>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abc8b0>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abc970>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abca30>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abcaf0>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abcbb0>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abcc70>
+Velvet Underground	The Velvet Underground & Nico	1967	<classes.Song object at 0x109abcd30>
+Vladimir Vysotsky	Izbrannoye	2011	<classes.Song object at 0x109abceb0>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf070>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf130>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf1f0>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf2b0>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf370>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf430>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf4f0>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf5b0>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf670>
+Warner E Hodges	Gunslinger	2014	<classes.Song object at 0x109abf730>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abf8b0>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abf970>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfa30>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfaf0>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfbb0>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfc70>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfd30>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfdf0>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abfeb0>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109abff70>
+White Zombie	Astro-Creep	2000	<classes.Song object at 0x109ac1070>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac11f0>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac12b0>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac1370>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac1430>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac14f0>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac15b0>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac1670>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac1730>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac17f0>
+Wishbone Ash	Argus	1972	<classes.Song object at 0x109ac18b0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac19d0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1a90>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1b50>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1c10>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1cd0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1d90>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1e50>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1f10>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac1fd0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac30d0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<classes.Song object at 0x109ac3190>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac32b0>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac3370>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac3430>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac34f0>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac35b0>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac3670>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac3730>
+Wishbone Ash	Wishbone Four	1973	<classes.Song object at 0x109ac37f0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3970>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3a30>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3af0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3bb0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3c70>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3d30>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3df0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3eb0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac3f70>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4070>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4130>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac41f0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac42b0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4370>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4430>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac44f0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac45b0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4670>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4730>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac47f0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac48b0>
+Yardbirds	The Very Best of the Yardbirds	1991	<classes.Song object at 0x109ac4970>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4af0>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4bb0>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4c70>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4d30>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4df0>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4eb0>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac4f70>
+Yngwie Malmsteen	Rising Force	1984	<classes.Song object at 0x109ac6070>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac61f0>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac62b0>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac6370>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac6430>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac64f0>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac65b0>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac6670>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac6730>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac67f0>
+ZZ Top	Rio Grande Mud	1972	<classes.Song object at 0x109ac68b0>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac69d0>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6a90>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6b50>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6c10>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6cd0>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6d90>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6e50>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6f10>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac6fd0>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac90d0>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac9190>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac9250>
+ZZ Top	Tres Hombres	1973	<classes.Song object at 0x109ac9310>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac9430>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac94f0>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac95b0>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac9670>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac9730>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac97f0>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac98b0>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac9970>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac9a30>
+ZZ Top	Degüello	1979	<classes.Song object at 0x109ac9af0>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109ac9c10>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109ac9cd0>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109ac9d90>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109ac9e50>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109ac9f10>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109ac9fd0>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109acc0d0>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109acc190>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109acc250>
+ZZ Top	Recycler	1990	<classes.Song object at 0x109acc310>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc430>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc4f0>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc5b0>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc670>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc730>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc7f0>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc8b0>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acc970>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109acca30>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109accaf0>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109accbb0>
+ZZ Top	Antenna	1994	<classes.Song object at 0x109accc70>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109accd90>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109acce50>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109accf10>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109accfd0>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace0d0>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace190>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace250>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace310>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace3d0>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace490>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace550>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace610>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace6d0>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace790>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace850>
+ZZ Top	Mescalero	2003	<classes.Song object at 0x109ace910>
